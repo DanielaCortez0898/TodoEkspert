@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TodoEkspert</string>
+    <string name="login">login</string>
+    <string name="enter_your_username">Enter your username</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="this_field_is_required" />
+    <string name="what_needs">what_needs</string>
+    <string name="Done">Done</string>
+    <string name="Add_todo">add_todo</string>
+    <string name="add_todo">Add Todo</string>
+    <string name="what_need">What needs to be done?</string>
+    <string name="action_new">action_now</string>
+    <string name="action_refresh">action_refresh</string>
+    <string name="action_settings">action settings</string>
+    <string name="action_logout">action logout</string>
+</resources>
