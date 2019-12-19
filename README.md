@@ -9,8 +9,8 @@ Esta aplicación es sobre una lista de tareas que inicia sesion y en la que agre
 
 
 ### Visuals
-![](images/captura_TodoList01.png)
-![](images/captura_TodoList02.png)
+![](images/captura_TodoList01.jpg)
+![](images/captura_TodoList02.jpg)
 
 ### Usage
 Esta aplicación es para hacer una lista de tareas
